@@ -13,5 +13,5 @@
 **MIT**
 
 ## Authors
-Zelenskyi Alexandr (Зеленський Олександр)
-Library based on "DDSReader.java" by Kenji Sasaki / MIT license / https://github.com/npedotnet/DDSReader
+* Zelenskyi Alexandr (Зеленський Олександр)
+* Library based on "DDSReader.java" by Kenji Sasaki / MIT license / https://github.com/npedotnet/DDSReader
